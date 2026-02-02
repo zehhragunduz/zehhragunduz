@@ -28,22 +28,6 @@
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
-
-* **Yapay Zeka Destekli Akıllı Soğutma (TÜBİTAK 2209-A):** Endüstriyel enerji verimliliği için veri analizi ve makine öğrenmesi modelleri.
-* **Sahte Yorum Tespiti:** NLP teknikleri kullanılarak kullanıcı yorumlarının sınıflandırılması.
-* **Kargo Takip Sistemi:** SQL tabanlı ilişkisel veritabanı tasarımı ve raporlama sistemi.
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zehhragunduz&show_icons=true&theme=radical" alt="Zehra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehhragunduz&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ### 📫 Bana Ulaşın
 
@@ -55,6 +39,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:zhrgndzkhzai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
